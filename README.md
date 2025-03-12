@@ -1,6 +1,4 @@
-# PDF-to-CSV-converter
-
-### 📄 **README - Conversor de PDF para CSV**  
+### 📄 **Conversor de PDF para CSV**  
 
 Este script converte extratos de corretoras em formato PDF para um arquivo CSV, facilitando a manipulação e análise dos dados.  
 
