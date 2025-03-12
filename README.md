@@ -57,7 +57,7 @@ pdf_to_csv(pdf_path, csv_path)
 ### **4. Como Executar**  
 No terminal ou prompt de comando, vá até a pasta onde o script está salvo e execute:  
 ```bash
-python converter.py
+python3 pdf-to-csv-converter.py
 ```
 
 ---
